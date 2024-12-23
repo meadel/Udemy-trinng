@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10489333162",
+    "project_id": "el-zamalkawiya",
+    "storage_bucket": "el-zamalkawiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10489333162:android:60f66269330d31b4ad57d3",
+        "android_client_info": {
+          "package_name": "com.example.elzamalkawiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6kcwA2LVjAD3s4kUIE5A-Ye5wu0GCjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
